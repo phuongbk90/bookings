@@ -1,16 +1,18 @@
-# bookings
+# Bookings and Reservations
 
-Bootstrap template 
-  https://getbootstrap.com/docs/4.5/getting-started/introduction/
+This is the repository for my bookings and reservations project.
 
-1> Using Pat for routing
+- Bootstrap template 
+https://getbootstrap.com/docs/4.5/getting-started/introduction/
+
+- Using Pat for routing
 https://github.com/bmizerany/pat
 
-2> Using Chi for routing
+- Using Chi for routing
 https://github.com/go-chi/chi
 
-3> Session management
+- Session management
 https://github.com/alexedwards/scs
 
-4> Middleware
+- Middleware
 https://github.com/justinas/nosurf
